@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release-monorepo",
+  "name": "@joca96/semantic-release-monorepo",
   "version": "0.0.0-development",
   "description": "Plugins for `semantic-release` allowing it to be used with a monorepo.",
   "main": "src/index.js",
@@ -16,6 +16,7 @@
     "semantic-release": ">=15.11.x"
   },
   "dependencies": {
+    "@joca96/semantic-release-plugin-decorators": "0.0.0-development",
     "debug": "^3.1.0",
     "execa": "^0.8.0",
     "p-limit": "^1.2.0",
