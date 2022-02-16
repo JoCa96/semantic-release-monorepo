@@ -1,6 +1,6 @@
 {
   "name": "@joca96/semantic-release-monorepo",
-  "version": "0.0.0-development",
+  "version": "7.0.6",
   "description": "Plugins for `semantic-release` allowing it to be used with a monorepo.",
   "main": "src/index.js",
   "files": [
